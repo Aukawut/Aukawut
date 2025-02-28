@@ -6,8 +6,8 @@ Fullstack developer
 
 *   🌍  I'm based in Rayong,Thailand
 *   ✉️  You can contact me at [aukawut2542@gmail.com](mailto:aukawut2542@gmail.com)
-*   🧠  I'm learning JavaScript, TypeScript, NodeJS, ReactJS , NextJS, ExpressJS ,PHP ,Python
-*   🤝  I'm open to collaborating on IT Support , Web Developer , Fullstack developer
+*   🧠  I'm developing Golang, Go fiber,JavaScript, TypeScript, NodeJS, ReactJS , NextJS, ExpressJS ,PHP ,Python
+*   🤝  I'm open to collaborating on Fullstack developer
 ### Skills 
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="36" height="36"/> </a>
