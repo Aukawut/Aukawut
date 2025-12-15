@@ -5,7 +5,7 @@ Fullstack developer
 -------------
 
 *   🌍  I'm based in Rayong,Thailand
-*   ✉️  You can contact me at [aukawut2542@gmail.com](mailto:aukawut2542@gmail.com)
+*   ✉️  You can contact me at [akadev8540@gmail.com](mailto:akadev8540@gmail.com)
 *   🧠  I'm developing Golang, Go fiber,JavaScript, TypeScript, NodeJS, ReactJS , NextJS, ExpressJS ,PHP ,Python
 *   🤝  I'm open to collaborating on Fullstack developer
 ### Skills 
